@@ -1,5 +1,5 @@
 # JustForceSpawn
- A simple and lightweight plugin that automatically teleports players to spawn when they join the server.
+ A simple and lightweight minecraft plugin that automatically teleports players to spawn when they join the server.
 
 
 ###### Commands & permissions.
