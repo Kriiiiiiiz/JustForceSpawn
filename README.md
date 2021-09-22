@@ -3,5 +3,5 @@
 
 
 ###### Commands & permissions.
- /spawn | spawn.command  -  Teleports you to spawn.
+ /spawn | spawn.command  -  Teleports you to spawn.<br />
  /setspawn | set.spawn.command  -  Sets spawn spoint.
