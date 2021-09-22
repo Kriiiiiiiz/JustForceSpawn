@@ -1,0 +1,12 @@
+name: JustForceSpawn
+version: '1.0'
+main: com.krizind.justforcespawn
+api-version: 1.17
+authors: [ Kriiiiiiiz ]
+description: A simple and lightweight plugin that automatically teleports players to spawn when they join the server.
+website: www.krizind.com
+commands:
+  setspawn:
+    description: Sets spawn point.
+  spawn:
+    description: Teleports to spawn.
