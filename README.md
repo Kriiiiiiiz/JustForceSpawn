@@ -6,4 +6,6 @@
 
 ###### Commands & permissions.
  /spawn | spawn.command  -  Teleports you to spawn.<br />
- /setspawn | set.spawn.command  -  Sets spawn spoint.
+ /setspawn | set.spawn.command  -  Sets spawn spoint.<br />
+ <br />
+ Feel free to text me at my [Discord](https://discord.io/KrizOnDev) ! 
